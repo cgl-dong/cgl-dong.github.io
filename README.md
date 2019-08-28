@@ -59,4 +59,4 @@
 
 ![](https://ss.csdn.net/p?https://mmbiz.qpic.cn/mmbiz_jpg/Pn4Sm0RsAujibm5pV7xAlozo1fslfZEkict9fFKJONGNfZfwtgjStMCYZpmw6baMM8hb7DbJvexuxBpMKvB7wxPA/640?wx_fmt=jpeg)
 
-<a href="https://cgl-dong.github.io/%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91.html">全栈开发</a>
+<a href="https://cgl-dong.github.io/.html">SSM整合</a>
